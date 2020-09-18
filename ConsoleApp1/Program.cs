@@ -14,7 +14,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Random rnd = new Random();
-
+            Console.WriteLine("Test");
+            Console.WriteLine("hallo");
         }
 
 
